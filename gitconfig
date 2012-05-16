@@ -2,3 +2,7 @@
   default = tracking
 [format]
   pretty = %Cblue%h%Creset %Cgreen[%ar]%Creset (%an) %s
+
+[user]
+	name = Alex Kroman
+	email = alexkroman@gmail.com
