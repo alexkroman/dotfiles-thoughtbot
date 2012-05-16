@@ -4,6 +4,3 @@ export PATH=~/.rvm/bin:$PATH
 
 # recommended by brew doctor
 export PATH="/usr/local/bin:/usr/local/sbin:$PATH"
-
-# remap mvim from brew to vim
-alias vim="mvim -v"
