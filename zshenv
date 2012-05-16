@@ -1,3 +1,5 @@
+export PATH=~/.rvm/bin:$PATH
+
 # RVM
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm"
 
