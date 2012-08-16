@@ -1,4 +1,5 @@
 set guioptions-=T
 set background=dark
 colorscheme vividchalk
+set visualbell
 nmap <Leader>dt :! rdebug -I"lib:test" %<CR>
