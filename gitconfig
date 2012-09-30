@@ -11,4 +11,4 @@
   mm = !git checkout master && git merge @{-1} --ff-only
 [user]
 	name = Alex Kroman
-	email = alexkroman@gmail.com
+	email = alex@newrelic.com
