@@ -12,3 +12,5 @@
 [user]
 	name = Alex Kroman
 	email = alex@newrelic.com
+[core]
+	editor = /usr/local/bin/vim
